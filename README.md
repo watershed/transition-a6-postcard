@@ -24,10 +24,10 @@ The following representative images were last updated on 17 May 2017.
 
 Info face
 
-![TRANSITion postcard info](https://raw.githubusercontent.com/watershed/transition-a6-postcard/master/design-preview/transition-A6-postcard_info.png)
+![TRANSITion postcard info](design-preview/transition-A6-postcard_info.png?raw=true)
 
 - - -
 
 Images face
 
-![TRANSITion postcard images](https://raw.githubusercontent.com/watershed/transition-a6-postcard/master/design-preview/transition-A6-postcard_images.jpg)
+![TRANSITion postcard images](design-preview/transition-A6-postcard_images.jpg?raw=true)
