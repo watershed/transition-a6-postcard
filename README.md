@@ -8,7 +8,7 @@ The artwork is a 2 page Adobe InDesign CC2017 file with associated assets:
     * Interior of Cunliffe Owen aircraft factory
     * Interior of the last Ford Transit off the Wide Lane production line
     * Community training session at the Ford archive
-    * Constr`uction work for Mountpark’s redevelopment of the site
+    * Construction work for Mountpark’s redevelopment of the site
 
 The font family used is **Adobe Source Sans Pro**, available as a free download from [Font Squirrel](https://www.fontsquirrel.com/fonts/source-sans-pro) or via Adobe Creative Cloud font syncing at [Typekit](https://typekit.com/fonts/source-sans).
 
@@ -20,10 +20,10 @@ The following representative images were last updated on 17 May 2017.
 
 Front face
 
-![TRANSITion postcard info](design-preview/transition_A6-postcard_info.png)
+![TRANSITion postcard info](https://github.com/watershed/transition-a6-postcard/blob/master/design-preview/transition_A6-postcard_info.png)
 
 - - -
 
 Reverse face
 
-![TRANSITion postcard images](design-preview/transition_A6-postcard_images.jpg)
+![TRANSITion postcard images](https://github.com/watershed/transition-a6-postcard/blob/master/design-preview/transition_A6-postcard_images.jpg)
