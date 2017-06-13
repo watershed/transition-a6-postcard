@@ -14,13 +14,15 @@ The font family used is **Adobe Source Sans Pro**, available as a free download 
 
 ## PDF artwork
 
-The artwork is understood to be ready for print, so this repository incorporates a PDF/X-1a compliant high resolution PDF including trims and bleed.
+The artwork is ready for print, so this repository incorporates a PDF/X-1a compliant high resolution PDF including trims and bleed.
 
-[Download the zip file](https://github.com/watershed/transition-a6-postcard/archive/master.zip).
+[Download the artwork PDF only](artwork/transition_A6-postcard_2-sided.pdf?raw=true)
+
+[Download the zip file of the whole repository](https://github.com/watershed/transition-a6-postcard/archive/master.zip).
 
 ## Design preview images
 
-The following representative images were last updated on 17 May 2017.
+The following representative images were last updated on 13 June 2017.
 
 Info face
 
