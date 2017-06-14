@@ -22,7 +22,7 @@ The artwork is ready for print, so this repository incorporates a PDF/X-1a compl
 
 ## Design preview images
 
-The following representative images were last updated on 13 June 2017.
+The following representative images were last updated on 14 June 2017.
 
 Info face
 
