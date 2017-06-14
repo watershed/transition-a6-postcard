@@ -18,7 +18,7 @@ The artwork is ready for print, so this repository incorporates a PDF/X-1a compl
 
 [Download the PDF artwork only](artwork/transition_A6-postcard_2-sided.pdf?raw=true) (2.1 Mb).
 
-[Download the zip file of the whole repository](https://github.com/watershed/transition-a6-postcard/archive/master.zip) (about 75 Mb).
+[Download the zip file of the whole repository](https://github.com/watershed/transition-a6-postcard/archive/master.zip) (about 35 Mb).
 
 ## Design preview images
 
